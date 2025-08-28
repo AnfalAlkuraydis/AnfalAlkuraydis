@@ -11,7 +11,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AnfalAlkuraydis&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnfalAlkuraydis&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div>
+  Made with ❤️ by Anfal Alkuraydis
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
