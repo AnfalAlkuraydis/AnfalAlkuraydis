@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a senior Artificial Intelligence student combining academic knowledge with hands-on experience, <br>passionate about exploring and applying AI across different domains while continuously learning and growing.
+ I’m a fresh Artificial Intelligence graduate combining academic knowledge with hands-on experience, <br>passionate about exploring and applying AI across different domains while continuously learning and growing.
 
 
 ## 🌐 Socials:
